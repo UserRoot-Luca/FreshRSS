@@ -200,7 +200,7 @@ return array(
 		),
 		'no_selected' => 'Nessun feed selezionato.',
 		'number_entries' => '%d articoli',
-		'open_feed' => 'Feed aperto %s',
+		'open_feed' => 'Aprire il feed %s',
 		'priority' => array(
 			'_' => 'Visibilità',
 			'archived' => 'Non mostrare (archiviato)',

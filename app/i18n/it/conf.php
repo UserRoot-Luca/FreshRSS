@@ -268,7 +268,7 @@ return array(
 			'older_first' => 'Prima i più vecchi',
 		),
 		'star' => array(
-			'when' => 'Segna un articolo come preferito...',
+			'when' => 'Segna un articolo come preferito…',
 		),
 		'sticky_post' => 'Blocca il contenuto a inizio pagina quando aperto',
 		'title' => 'Lettura',

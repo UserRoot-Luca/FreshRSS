@@ -230,7 +230,7 @@ return array(
 		'ttl' => 'Non aggiornare automaticamente piu di',
 		'unicityCriteria' => array(
 			'_' => 'Criteri di unicità dell’articolo',
-			'forced' => '<span title="Blocca i criteri di unicità, anche quando il feed ha articoli duplicati">forced</span>',	// DIRTY
+			'forced' => '<span title="Blocca i criteri di unicità, anche quando il feed ha articoli duplicati">forced</span>',
 			'help' => 'Rilevante per i feed non validi.<br />⚠️ La modifica del criterio creerà dei duplicati.',
 			'id' => 'Standard ID (default)',	// IGNORE
 			'link' => 'Link',	// IGNORE

@@ -31,7 +31,7 @@ return array(
 		'empty' => 'Categoria vuota',
 		'expand' => 'Espandi categoria',
 		'information' => 'Informazioni',
-		'open' => 'Categoria aperta',
+		'open' => 'Aprire la categoria!',
 		'opml_url' => 'URL OPML',
 		'position' => 'Mostra posizione',
 		'position_help' => 'Per controllare l’ordinamento della categoria',

@@ -31,7 +31,7 @@ return array(
 		'empty' => 'Categoria vuota',
 		'expand' => 'Espandi categoria',
 		'information' => 'Informazioni',
-		'open' => 'Open category',	// TODO
+		'open' => 'Categoria aperta',
 		'opml_url' => 'URL OPML',
 		'position' => 'Mostra posizione',
 		'position_help' => 'Per controllare l’ordinamento della categoria',
@@ -77,7 +77,7 @@ return array(
 			'_' => 'Azioni di filtro',
 			'help' => 'Scrivi un filtro di ricerca per riga. Per li operatori <a href="https://freshrss.github.io/FreshRSS/en/users/10_filter.html#with-the-search-field" target="_blank">vedi la documentazione</a>.',
 		),
-		'http_headers' => 'HTTP Headers',	// TODO
+		'http_headers' => 'HTTP Headers',	// IGNORE
 		'http_headers_help' => 'Le intestazioni sono separate da una linea e il nome e il valore di un’intestazione sono separati da due punti (p.es: <kbd><code>Accept: application/atom+xml<br />Authorization: Bearer some-token</code></kbd>).',
 		'information' => 'Informazioni',
 		'keep_min' => 'Numero minimo di articoli da mantenere',
@@ -200,7 +200,7 @@ return array(
 		),
 		'no_selected' => 'Nessun feed selezionato.',
 		'number_entries' => '%d articoli',
-		'open_feed' => 'Open feed %s',	// TODO
+		'open_feed' => 'Feed aperto %s',
 		'priority' => array(
 			'_' => 'Visibilità',
 			'archived' => 'Non mostrare (archiviato)',
@@ -229,8 +229,8 @@ return array(
 		'title_add' => 'Aggiungi RSS feed',
 		'ttl' => 'Non aggiornare automaticamente piu di',
 		'unicityCriteria' => array(
-			'_' => 'Article unicity criteria',	// TODO
-			'forced' => '<span title="Block the unicity criteria, even when the feed has duplicate articles">forced</span>',	// TODO
+			'_' => 'Criteri di unicità dell’articolo',
+			'forced' => '<span title="Blocca i criteri di unicità, anche quando il feed ha articoli duplicati">forced</span>',	// DIRTY
 			'help' => 'Rilevante per i feed non validi.<br />⚠️ La modifica del criterio creerà dei duplicati.',
 			'id' => 'Standard ID (default)',	// IGNORE
 			'link' => 'Link',	// IGNORE

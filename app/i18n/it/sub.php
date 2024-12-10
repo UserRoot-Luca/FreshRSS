@@ -57,7 +57,7 @@ return array(
 			'prepend' => 'Aggiungi prima del contenuto esistente',
 			'replace' => 'Rimpiazza il contenuto esistente',
 		),
-		'content_retrieval' => 'Content retrieval',	// TODO
+		'content_retrieval' => 'Recupero dei contenuti',
 		'css_cookie' => 'Usa i cookie quando viene recuperato il contenuto di un articolo',
 		'css_cookie_help' => 'Esempio: <kbd>foo=bar; gdpr_consent=true; cookie=value</kbd>',
 		'css_help' => 'In caso di feed RSS troncati (attenzione, richiede molto tempo!)',
@@ -202,7 +202,7 @@ return array(
 		'no_selected' => 'Nessun feed selezionato.',
 		'number_entries' => '%d articoli',
 		'open_feed' => 'Aprire il feed %s',
-		'path_entries_conditions' => 'Conditions for content retrieval',	// TODO
+		'path_entries_conditions' => 'Condizioni per il recupero dei contenuti',
 		'priority' => array(
 			'_' => 'Visibilità',
 			'archived' => 'Non mostrare (archiviato)',

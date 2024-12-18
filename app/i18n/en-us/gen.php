@@ -212,7 +212,7 @@ return array(
 		'archiveIS' => 'archive.is',	// IGNORE
 		'archiveORG' => 'archive.org',	// IGNORE
 		'archivePH' => 'archive.ph',	// IGNORE
-		'bluesky' => 'Bluesky',	// TODO
+		'bluesky' => 'Bluesky',	// IGNORE
 		'buffer' => 'Buffer',	// IGNORE
 		'clipboard' => 'Clipboard',	// IGNORE
 		'diaspora' => 'Diaspora*',	// IGNORE

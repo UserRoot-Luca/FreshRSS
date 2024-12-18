@@ -299,7 +299,7 @@ return array(
 		'share_name' => 'Share name to display',
 		'share_url' => 'Share URL to use',
 		'title' => 'Sharing',
-		'bluesky' => 'Bluesky',	// TODO
+		'bluesky' => 'Bluesky',
 		'twitter' => 'Twitter',
 		'wallabag' => 'wallabag',
 	),

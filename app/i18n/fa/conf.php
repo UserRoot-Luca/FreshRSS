@@ -299,6 +299,7 @@ return array(
 		'share_name' => ' نام اشتراک گذاری برای نمایش',
 		'share_url' => ' URL را برای استفاده به اشتراک بگذارید',
 		'title' => ' اشتراک گذاری',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => ' توییتر',
 		'wallabag' => 'والباگ',
 	),

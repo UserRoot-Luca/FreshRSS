@@ -299,6 +299,7 @@ return array(
 		'share_name' => 'Meno pre zobrazenie',
 		'share_url' => 'Zdieľaný odkaz',
 		'title' => 'Zdieľanie',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

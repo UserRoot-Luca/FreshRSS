@@ -299,6 +299,7 @@ return array(
 		'share_name' => '표시할 이름',
 		'share_url' => '사용할 공유 URL',
 		'title' => '공유',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

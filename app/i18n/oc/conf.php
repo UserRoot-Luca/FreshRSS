@@ -299,6 +299,7 @@ return array(
 		'share_name' => 'Nom del partatge de mostrar',
 		'share_url' => 'URL del partatge d’utilizar',
 		'title' => 'Partatge',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

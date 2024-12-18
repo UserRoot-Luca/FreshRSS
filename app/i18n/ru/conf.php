@@ -299,6 +299,7 @@ return array(
 		'share_name' => 'Отображаемое имя',
 		'share_url' => 'Используемый URL',
 		'title' => 'Обмен',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

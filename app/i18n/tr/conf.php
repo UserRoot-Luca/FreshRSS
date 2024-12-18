@@ -299,6 +299,7 @@ return array(
 		'share_name' => 'Paylaşım ismi',
 		'share_url' => 'Paylaşım URL si',
 		'title' => 'Paylaşım',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

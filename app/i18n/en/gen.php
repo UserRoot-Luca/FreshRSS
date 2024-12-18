@@ -212,6 +212,7 @@ return array(
 		'archiveIS' => 'archive.is',
 		'archiveORG' => 'archive.org',
 		'archivePH' => 'archive.ph',
+		'bluesky' => 'Bluesky',	// TODO
 		'buffer' => 'Buffer',
 		'clipboard' => 'Clipboard',
 		'diaspora' => 'Diaspora*',

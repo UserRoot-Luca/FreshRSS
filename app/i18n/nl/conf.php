@@ -299,6 +299,7 @@ return array(
 		'share_name' => 'Gedeelde naam om weer te geven',
 		'share_url' => 'Deel URL voor gebruik',
 		'title' => 'Delen',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

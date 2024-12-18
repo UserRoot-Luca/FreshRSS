@@ -299,6 +299,7 @@ return array(
 		'share_name' => 'Rādāmā dalīšanās nosaukums',
 		'share_url' => 'Dalīšanās URL, ko izmantot',
 		'title' => 'Dalīšanās',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

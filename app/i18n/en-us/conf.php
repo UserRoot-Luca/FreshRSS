@@ -299,6 +299,7 @@ return array(
 		'share_name' => 'Share name to display',	// IGNORE
 		'share_url' => 'Share URL to use',	// IGNORE
 		'title' => 'Sharing',	// IGNORE
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

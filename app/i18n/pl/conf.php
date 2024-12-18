@@ -299,6 +299,7 @@ return array(
 		'share_name' => 'Wyświetlana nazwa serwisu',
 		'share_url' => 'Adres API serwisu',
 		'title' => 'Podawanie dalej',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

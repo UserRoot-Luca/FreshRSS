@@ -299,6 +299,7 @@ return array(
 		'share_name' => 'Näytettävä jakamistavan nimi',
 		'share_url' => 'Käytettävä jakamistavan URL-osoite',
 		'title' => 'Jakaminen',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

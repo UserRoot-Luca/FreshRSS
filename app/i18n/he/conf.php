@@ -299,6 +299,7 @@ return array(
 		'share_name' => 'שיתוף שם לתצוגה',
 		'share_url' => 'לשימוש שתפו URL',
 		'title' => 'שיתוף',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

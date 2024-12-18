@@ -299,6 +299,7 @@ return array(
 		'share_name' => 'Megosztás neve',
 		'share_url' => 'URL megosztása a használathoz',
 		'title' => 'Sharing',	// IGNORE
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

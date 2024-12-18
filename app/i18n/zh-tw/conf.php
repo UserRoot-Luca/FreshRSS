@@ -299,6 +299,7 @@ return array(
 		'share_name' => '名稱',
 		'share_url' => '地址',
 		'title' => '分享',
+		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => '推特',	// IGNORE
 		'wallabag' => 'Wallabag',	// IGNORE
 	),

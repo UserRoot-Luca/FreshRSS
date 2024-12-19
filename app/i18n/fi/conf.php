@@ -287,6 +287,7 @@ return array(
 	'sharing' => array(
 		'_' => 'Jakaminen',
 		'add' => 'Lisää jakamistapa',
+		'bluesky' => 'Bluesky',	// TODO
 		'deprecated' => 'Tämä palvelu on vanhentunut, ja se poistetaan FreshRSS-sovelluksen <a href="https://freshrss.github.io/FreshRSS/en/users/08_sharing_services.html" title="Lisätietoja ohjeissa" target="_blank">tulevasta versiosta</a>.',
 		'diaspora' => 'Diaspora*',	// IGNORE
 		'email' => 'Sähköposti',
@@ -299,7 +300,6 @@ return array(
 		'share_name' => 'Näytettävä jakamistavan nimi',
 		'share_url' => 'Käytettävä jakamistavan URL-osoite',
 		'title' => 'Jakaminen',
-		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

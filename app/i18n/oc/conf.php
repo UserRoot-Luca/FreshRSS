@@ -287,6 +287,7 @@ return array(
 	'sharing' => array(
 		'_' => 'Partatge',
 		'add' => 'Ajustar un metòde de partatge',
+		'bluesky' => 'Bluesky',	// TODO
 		'deprecated' => 'Aqueste servici es obsolèt e serà tirat de la <a href="https://freshrss.github.io/FreshRSS/en/users/08_sharing_services.html" title="Dobrir la documentacion per mai d’informacions" target="_blank">futura version de FreshRSS</a>.',
 		'diaspora' => 'Diaspora*',	// IGNORE
 		'email' => 'Corrièl',
@@ -299,7 +300,6 @@ return array(
 		'share_name' => 'Nom del partatge de mostrar',
 		'share_url' => 'URL del partatge d’utilizar',
 		'title' => 'Partatge',
-		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

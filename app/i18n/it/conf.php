@@ -287,6 +287,7 @@ return array(
 	'sharing' => array(
 		'_' => 'Condivisione',
 		'add' => 'Aggiungi un metodo di condivisione',
+		'bluesky' => 'Bluesky',	// IGNORE
 		'deprecated' => 'Questo servizio è deprecato e sarà rimosso da FreshRSS in una <a href="https://freshrss.github.io/FreshRSS/en/users/08_sharing_services.html" title="Apri la documentazione per ulteriori informazioni" target="_blank">release successiva</a>.',
 		'diaspora' => 'Diaspora*',	// IGNORE
 		'email' => 'Email',	// IGNORE
@@ -299,7 +300,6 @@ return array(
 		'share_name' => 'Nome condivisione',
 		'share_url' => 'URL condivisione',
 		'title' => 'Condividi',
-		'bluesky' => 'Bluesky',	// IGNORE
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

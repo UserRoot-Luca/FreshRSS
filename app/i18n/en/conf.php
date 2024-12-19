@@ -287,6 +287,7 @@ return array(
 	'sharing' => array(
 		'_' => 'Sharing',
 		'add' => 'Add a sharing method',
+		'bluesky' => 'Bluesky',
 		'deprecated' => 'This service is deprecated and will be removed from FreshRSS in a <a href="https://freshrss.github.io/FreshRSS/en/users/08_sharing_services.html" title="Open documentation for more information" target="_blank">future release</a>.',
 		'diaspora' => 'Diaspora*',
 		'email' => 'Email',
@@ -299,7 +300,6 @@ return array(
 		'share_name' => 'Share name to display',
 		'share_url' => 'Share URL to use',
 		'title' => 'Sharing',
-		'bluesky' => 'Bluesky',
 		'twitter' => 'Twitter',
 		'wallabag' => 'wallabag',
 	),

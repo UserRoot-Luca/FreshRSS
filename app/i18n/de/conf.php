@@ -287,6 +287,7 @@ return array(
 	'sharing' => array(
 		'_' => 'Teilen',
 		'add' => 'Füge eine Teilen-Dienst hinzu',
+		'bluesky' => 'Bluesky',	// TODO
 		'deprecated' => 'Dieser Dienst ist veraltet und wir in einer <a href="https://freshrss.github.io/FreshRSS/en/users/08_sharing_services.html" title="Open documentation for more information" target="_blank">zukünftigen FreshRSS-Version</a> entfernt.',
 		'diaspora' => 'Diaspora*',	// IGNORE
 		'email' => 'E-Mail',
@@ -299,7 +300,6 @@ return array(
 		'share_name' => 'Anzuzeigender Teilen-Name',
 		'share_url' => 'Zu verwendende Teilen-URL',
 		'title' => 'Teilen',
-		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),

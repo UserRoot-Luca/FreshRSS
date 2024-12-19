@@ -287,6 +287,7 @@ return array(
 	'sharing' => array(
 		'_' => 'Dalīšanās',
 		'add' => 'Pievienojat dalīšanās metodi',
+		'bluesky' => 'Bluesky',	// TODO
 		'deprecated' => 'Šis pakalpojums ir novecojis un tiks noņemts no FreshRSS kādā <a href="https://freshrss.github.io/FreshRSS/en/users/08_sharing_services.html" title="Atvērt dokumentāciju, lai iegūtu vairāk informācijas" target="_blank">nākamajā versijā</a>.',
 		'diaspora' => 'Diaspora*',	// IGNORE
 		'email' => 'E-pasts',
@@ -299,7 +300,6 @@ return array(
 		'share_name' => 'Rādāmā dalīšanās nosaukums',
 		'share_url' => 'Dalīšanās URL, ko izmantot',
 		'title' => 'Dalīšanās',
-		'bluesky' => 'Bluesky',	// TODO
 		'twitter' => 'Twitter',	// IGNORE
 		'wallabag' => 'wallabag',	// IGNORE
 	),
